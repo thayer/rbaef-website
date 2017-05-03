@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML LANG="en">
+<HEAD>
+	<LINK HREF="../style.css" REL="styleSheet" TYPE="text/css">
+	<TITLE>RBAEF - Participants and Sponsors</TITLE>
+</HEAD>
+
+<BODY>
+
+<TABLE WIDTH=760 CELLPADDING=0 CELLSPACING=0 ALIGN=CENTER>
+	<TR>
+		<TD COLSPAN=2>
+
+<TABLE BORDER=0 WIDTH="100%" CELLPADDING=0  CELLSPACING=0>
+	<TR>
+		<TD WIDTH=360 class="header-left"><A HREF="../index.shtml"><IMG SRC="../images/logo.jpg" ALT="Role of Biomass in Americas Energy Future" border=0 height=100 width=360></A></TD>
+
+<TD  class="header-right" WIDTH=400 ALIGN=RIGHT VALIGN=TOP><BR></TD>
+	</TR>
+</TABLE>
+
+		</TD>
+	</TR>
+
+	<TR>
+		<TD class=sidebar valign=top>
+<!-- ADD LINKS TO SIDEBAR -->
+		
+		 <!--#include file="sidebar.html" --> 
+
+		</TD>
+
+		<TD id=main valign=top width=610>
+<!-- START OF CONTENT AREA -->
+
+<H1>Participants &amp; Sponsors</H1>
+
+
+<H2>Participants</H2>
+<P>The project team brings together leading experts in the diverse fields appropriate to the analysis, as well as institutions representing a broad range of constituents. Participating organizations include:
+</P>
+
+<ul class="spaced">
+	<li><A HREF="http://www.dartmouth.edu/">Dartmouth College</A></li>
+	<li><A HREF="http://www.nrdc.org/">Natural Resources Defense Council</A></li>
+	<li><A HREF="http://www.anl.gov/">Argonne National Laboratory</A></li>
+	<li><A HREF="http://www.msu.edu/">Michigan State University</A></li>
+	<li><A HREF="http://www.nrel.gov/">National Renewable Energy Laboratory</A></li>
+	<li><A HREF="http://www.ornl.gov/">Oak Ridge National Laboratory</A></li>
+	<li><A HREF="http://www.princeton.edu/">Princeton University</A></li>
+	<li><A HREF="http://www.ucsusa.org/">Union of Concerned Scientists</A></li>
+	<li><A HREF="http://www.ars.usda.gov/">USDA Agricultural Research Service</A></li>
+</ul>
+
+
+<H2 class="padding">Sponsors</H2>
+
+<P>Technical and economic analysis is supported by the 
+<a href="http://www.energy.gov/">Department of Energy</A>. 
+Environmental assessment and policy analysis are supported by the 
+<A HREF="http://www.ef.org/">Energy Foundation</A> and the 
+<A HREF="http://www.energycommission.org/">National Commission on Energy Policy</A>.
+</P>
+
+
+
+
+<!-- END OF CONTENT AREA -->
+
+<!-- START OF FOOTER -->
+
+
+<BR>
+
+
+
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+</body>
+</html>

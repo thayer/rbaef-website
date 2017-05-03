@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML LANG="en">
+<HEAD>
+	<LINK HREF="../style.css" REL="styleSheet" TYPE="text/css">
+	<TITLE>RBAEF - Task Leaders</TITLE>
+</HEAD>
+
+<BODY>
+
+<TABLE WIDTH=760 CELLPADDING=0 CELLSPACING=0 ALIGN=CENTER>
+	<TR>
+		<TD COLSPAN=2>
+
+<TABLE BORDER=0 WIDTH="100%" CELLPADDING=0  CELLSPACING=0>
+	<TR>
+		<TD WIDTH=360 class="header-left"><A HREF="../index.shtml"><IMG SRC="../images/logo.jpg" ALT="Role of Biomass in Americas Energy Future" border=0 height=100 width=360></A></TD>
+
+<TD  class="header-right" WIDTH=400 ALIGN=RIGHT VALIGN=TOP><BR></TD>
+	</TR>
+</TABLE>
+
+		</TD>
+	</TR>
+
+	<TR>
+		<TD class=sidebar valign=top>
+<!-- ADD LINKS TO SIDEBAR -->
+		
+		 <!--#include file="sidebar.html" --> 
+
+		</TD>
+
+		<TD id=main valign=top width=610>
+<!-- START OF CONTENT AREA -->
+
+<H1>Task Leaders: Mark Laser</H1>
+
+<H2>Mark Laser&#8212;Co-Leader, Task 4a: Co-product Analysis </H2>
+
+<img src="../images/mark_laser.jpg" HEIGHT=300 WIDTH=239 BORDER=1 ALT="Mark Laser" ALIGN=RIGHT HSPACE=10 VSPACE=10>
+
+<P>Mark Laser is a research associate at Thayer School of Engineering, 
+Dartmouth College. He recently co-authored a report on biomass refining, 
+entitled <I>Strategic Biorefinery Analysis</I>, funded by the National Renewable Energy Laboratory. He also has experience in biomass pretreatment research, as well as bioethanol process design and economic analysis. He earned a BS in chemical engineering from Cornell University and a Ph.D. in engineering sciences from Dartmouth College.</P>
+
+
+<!-- END OF CONTENT AREA -->
+
+<!-- START OF FOOTER -->
+
+
+<BR>
+
+
+
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+</body>
+</html>

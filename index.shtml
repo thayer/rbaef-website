@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML LANG="en">
+<HEAD>
+	<LINK HREF="style.css" REL="styleSheet" TYPE="text/css">
+	<TITLE>Role of Biomass in America's Energy Future</TITLE>
+</HEAD>
+
+<BODY>
+
+<TABLE WIDTH=760 CELLPADDING=0 CELLSPACING=0 ALIGN=CENTER border=0>
+	<TR>
+		<TD COLSPAN=2>
+
+<TABLE BORDER=0 WIDTH="100%" CELLPADDING=0  CELLSPACING=0>
+	<TR>
+		<TD WIDTH=360 class="header-left"><A HREF="index.shtml"><IMG SRC="images/logo.jpg" ALT="Role of Biomass in Americas Energy Future" border=0 height=100 width=360></A></TD>
+
+<TD  class="header-right" WIDTH=400 ALIGN=RIGHT VALIGN=TOP><BR></TD>
+	</TR>
+</TABLE>
+
+		</TD>
+	</TR>
+
+	<TR>
+		<TD class=sidebar valign=top>
+<!-- ADD LINKS TO SIDEBAR -->
+		
+		 <!--#include file="sidebar.html" --> 
+
+		</TD>
+
+		<TD id=main valign=top width=610>
+<!-- START OF CONTENT AREA -->
+
+<H1>The Role of Biomass in America's Energy Future (RBAEF)</H1>
+
+<P>RBAEF is an ongoing project jointly led by Dartmouth College and the 
+<A HREF="http://www.nrdc.org/">Natural Resources Defense Council</A> (NRDC),
+ and sponsored by the 
+<A HREF="http://www.energy.gov/">U.S. Department of Energy</A>, the 
+ Energy Foundation, and the 
+<A HREF="http://www.energycommission.org/">National Commission on Energy Policy</A>.
+</P>
+
+<P>
+RBAEF is a multi-institution, multi-sponsor project initiated in the spring of 
+2003 with two primary objectives: 
+</P>
+
+<OL>
+<LI>Identify and evaluate paths by which plant biomass can make a large 
+contribution to meeting future demand for energy services. </LI>
+<LI>Determine what can be done to accelerate biomass energy use 
+and in what timeframe associated benefits can be realized. </LI>
+</OL>
+
+
+<H2 class="padding">What's Different About This Project?</H2>
+
+<P>
+The project is differentiated from previous efforts by the breadth 
+of technologies considered, the diversity of organizations involved 
+(technical, environmental advocacy, policy), and its forward-looking character. 
+With respect to the latter, our analysis is focused on mature technology 
+that can reasonably be expected in the future given a concerted effort. 
+In addition, we consider the possibility of changes to the status quo that 
+leverage the benefits of advanced energy supply technologies, including 
+high productivity energy crops, high vehicle efficiency, and integrated
+ food and energy production. </P>
+ 
+<H2 class="padding"> Working Hypotheses Under Consideration</H2>
+
+ 
+<UL>
+<LI>
+The fraction of energy services that could be obtained from biomass is 
+much larger than has been considered in most analyses to date.</LI>
+
+<LI>
+Such large-scale provision of energy services could be accomplished 
+with environmental benefits and without using a large amount of new land.</LI>
+
+<LI>
+Fuel produced from cellulosic biomass is a legitimate option as a primary 
+energy carrier for the U.S. transportation sector over the indefinite future.</LI>
+
+<LI>
+Innovation, change, and increased energy efficiency are essential 
+features of most if not all paths to a sustainable and secure energy future.</LI>
+</UL>
+
+<br clear=all><br>		
+				
+												
+<table border=0 align=center cellpadding=5 cellspacing=10 width="90%">
+	<tr>
+			<td width="30%" valign="top" align="center">
+				<A HREF="http://www.nrdc.org/"><img src="images/NRDC_2_logo.gif" border=0 WIDTH=90 HEIGHT=83 ALT="NRDC logo"></A><br clear=all><br><br>
+				<img src="images/nbclogo-100x82.gif" border=0 WIDTH=100 HEIGHT=82 ALT="">
+			</td>
+			<td width="40%" valign="top" align="center">
+				<A HREF="http://www.dartmouth.edu/"><img src="images/dartmouth_logo.gif" border=0 WIDTH=90 HEIGHT=90 ALT="Dartmouth College logo"></A><br><br><br><br>
+				Energy Foundation<br>
+				
+			</td>
+				<td width="30%" valign="top" align="center">
+				<A HREF="http://www.energy.gov/"><img src="images/DOE_logo.gif" border=0 WIDTH=74 HEIGHT=75 ALT="US Department of Energy logo"></A><br><br><br><br><br>
+				<A HREF="http://www.energycommission.org/"><img src="images/ncep_logo.gif" border=0 WIDTH=125 HEIGHT=47 ALT="National Commission on Energy Policy logo"></A><br>
+			</td>
+</tr></table>
+
+<!-- END OF CONTENT AREA -->
+
+<!-- START OF FOOTER -->
+
+
+<BR>
+
+
+
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+</body>
+</html>

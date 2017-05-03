@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML LANG="en">
+<HEAD>
+	<LINK HREF="../style.css" REL="styleSheet" TYPE="text/css">
+	<TITLE>RBAEF - Supporting Documents</TITLE>
+</HEAD>
+
+<BODY>
+
+<TABLE WIDTH=760 CELLPADDING=0 CELLSPACING=0 ALIGN=CENTER>
+	<TR>
+		<TD COLSPAN=2>
+
+<TABLE BORDER=0 WIDTH="100%" CELLPADDING=0  CELLSPACING=0>
+	<TR>
+		<TD WIDTH=360 class="header-left"><A HREF="../index.shtml"><IMG SRC="../images/logo.jpg" ALT="Role of Biomass in Americas Energy Future" border=0 height=100 width=360></A></TD>
+
+<TD  class="header-right" WIDTH=400 ALIGN=RIGHT VALIGN=TOP><BR></TD>
+	</TR>
+</TABLE>
+
+		</TD>
+	</TR>
+
+	<TR>
+		<TD class=sidebar valign=top>
+<!-- ADD LINKS TO SIDEBAR -->
+		
+		 <!--#include file="sidebar.html" --> 
+
+		</TD>
+
+		<TD id=main valign=top width=610>
+<!-- START OF CONTENT AREA -->
+
+<H1>Supporting Documents</H1>
+
+
+<ul class="spaced">
+	<li><A HREF="working.pdf">Working Understandings</A> (PDF  file)</li>
+	<li><A HREF="mature.pdf">Defining Mature Technology</A>  (PDF file)</li>
+	<li><A HREF="switchgrass.pdf">Model Switchgrass Composition Determination</A>  (PDF file)</li>
+</ul>
+
+
+<!-- END OF CONTENT AREA -->
+
+<!-- START OF FOOTER -->
+
+
+<BR>
+
+
+
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+</body>
+</html>

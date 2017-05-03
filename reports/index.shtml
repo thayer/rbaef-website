@@ -1,0 +1,65 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML LANG="en">
+<HEAD>
+	<LINK HREF="../style.css" REL="styleSheet" TYPE="text/css">
+	<TITLE>RBAEF - Reports</TITLE>
+</HEAD>
+
+<BODY>
+
+<TABLE WIDTH=760 CELLPADDING=0 CELLSPACING=0 ALIGN=CENTER>
+	<TR>
+		<TD COLSPAN=2>
+
+<TABLE BORDER=0 WIDTH="100%" CELLPADDING=0  CELLSPACING=0>
+	<TR>
+		<TD WIDTH=360 class="header-left"><A HREF="../index.shtml"><IMG SRC="../images/logo.jpg" ALT="Role of Biomass in Americas Energy Future" border=0 height=100 width=360></A></TD>
+
+<TD  class="header-right" WIDTH=400 ALIGN=RIGHT VALIGN=TOP><BR></TD>
+	</TR>
+</TABLE>
+
+		</TD>
+	</TR>
+
+	<TR>
+		<TD class=sidebar valign=top>
+<!-- ADD LINKS TO SIDEBAR -->
+		
+		 <!--#include file="sidebar.html" --> 
+
+		</TD>
+
+		<TD id=main valign=top width=610>
+<!-- START OF CONTENT AREA -->
+
+<H1>Reports</H1>
+
+<UL>
+<LI class="spaced">Growing Energy&#8212;How Biofuels Can Help End America's Oil Dependence 
+(report of preliminary results published by the National Resources Defense Council - <A HREF="NRDC.Growing.Energy.Final.3.pdf">PDF file</A>)</LI>
+
+<LI class="spaced">
+Tilling for Energy Could Increase Farm Profits by $5 Billion&#8212;Studies Indicate Congress and Administration Should Increase Support for Bioenergy
+ (<A HREF="http://www.bio.org/news/newsitem.asp?id=2005_0302_01">press release</A> by the Biotechnology Industry Organization highlighting  the above report)</LI>
+</UL>
+
+
+
+
+
+<!-- END OF CONTENT AREA -->
+
+<!-- START OF FOOTER -->
+
+
+<BR>
+
+
+
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+</body>
+</html>

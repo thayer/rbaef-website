@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML LANG="en">
+<HEAD>
+	<LINK HREF="../style.css" REL="styleSheet" TYPE="text/css">
+	<TITLE>RBAEF - Task Leaders</TITLE>
+</HEAD>
+
+<BODY>
+
+<TABLE WIDTH=760 CELLPADDING=0 CELLSPACING=0 ALIGN=CENTER>
+	<TR>
+		<TD COLSPAN=2>
+
+<TABLE BORDER=0 WIDTH="100%" CELLPADDING=0  CELLSPACING=0>
+	<TR>
+		<TD WIDTH=360 class="header-left"><A HREF="../index.shtml"><IMG SRC="../images/logo.jpg" ALT="Role of Biomass in Americas Energy Future" border=0 height=100 width=360></A></TD>
+
+<TD  class="header-right" WIDTH=400 ALIGN=RIGHT VALIGN=TOP><BR></TD>
+	</TR>
+</TABLE>
+
+		</TD>
+	</TR>
+
+	<TR>
+		<TD class=sidebar valign=top>
+<!-- ADD LINKS TO SIDEBAR -->
+		
+		 <!--#include file="sidebar.html" --> 
+
+		</TD>
+
+		<TD id=main valign=top width=610>
+<!-- START OF CONTENT AREA -->
+
+<H1>Task Leaders: Michael Wang</H1>
+
+
+<img src="../images/michael_wang.jpg" HEIGHT=134 WIDTH=172 BORDER=1 ALT="Michael Wang" ALIGN=RIGHT HSPACE=10 VSPACE=10>
+
+<P>Michael Wang
+<BR>Center for Transportation Research
+<BR>Argonne National Laboratory
+<BR>ESD-362/G216
+<BR>Argonne, IL 60439
+<BR>(630) 252-2819
+<BR>mqwang@anl.gov
+<BR><A HREF="http://greet.anl.gov/">http://greet.anl.gov</A></P>
+
+<P>Dr. Michael Wang has a Ph.D. degree in environmental studies from the University of California
+at Davis. He is an environmental analyst in Center for Transportation Research at Argonne
+National Laboratory specializing on energy and environmental impacts of motor vehicle
+technologies and transportation fuels.</P>
+
+<P>Dr. Wang has been working in the area of evaluating emission and energy impacts of new
+transportation fuels and advanced vehicle technologies for over 16 years. He has developed the
+GREET (Greenhouse gases, Regulated Emissions, and Energy use in Transportation) model at
+Argonne National Laboratory. The model calculates energy use and emissions of various
+transportation fuels and vehicle technologies and is being used by governmental agencies,
+industries, and public interest groups. He has conducted studies to evaluate energy and emission
+effects of vehicle/fuel systems for U.S. Department of Energy, state of Illinois, the General
+Motor Corporation, and the U.S. Environmental Protection Agency.</P>
+
+<P>Dr. Wang is the chairman of the International Subcommittee on Transportation Energy and
+Alternative Transportation Fuels of the Transportation Research Board. He is a director of the
+Board of the Energy Foundation. Dr. Wang is a member of the Energy Conservation Committee
+of the Transportation Research Board, National Research Council. He is a member of the Society
+of Automotive Engineer, the Air and Waste Management Association, and North American
+Chinese Overseas Transportation Association. Dr. Wang has served on technical advisory
+committees for several major international studies on advanced vehicle technologies and
+transportation fuels conducted by or for governmental agencies, automotive companies, and
+energy companies in North America, Europe, and China. He has also served on graduate student
+dissertation committees.</P>
+
+<P>During his professional career, Dr. Wang has produced more than 110 publications and gave
+invited presentations in more than 30 professional conferences.</P>
+
+<!-- END OF CONTENT AREA -->
+
+<!-- START OF FOOTER -->
+
+
+<BR>
+
+
+
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+</body>
+</html>

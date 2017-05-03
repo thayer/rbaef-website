@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML LANG="en">
+<HEAD>
+	<LINK HREF="../style.css" REL="styleSheet" TYPE="text/css">
+	<TITLE>RBAEF - Task Leaders</TITLE>
+</HEAD>
+
+<BODY>
+
+<TABLE WIDTH=760 CELLPADDING=0 CELLSPACING=0 ALIGN=CENTER>
+	<TR>
+		<TD COLSPAN=2>
+
+<TABLE BORDER=0 WIDTH="100%" CELLPADDING=0  CELLSPACING=0>
+	<TR>
+		<TD WIDTH=360 class="header-left"><A HREF="../index.shtml"><IMG SRC="../images/logo.jpg" ALT="Role of Biomass in Americas Energy Future" border=0 height=100 width=360></A></TD>
+
+<TD  class="header-right" WIDTH=400 ALIGN=RIGHT VALIGN=TOP><BR></TD>
+	</TR>
+</TABLE>
+
+		</TD>
+	</TR>
+
+	<TR>
+		<TD class=sidebar valign=top>
+<!-- ADD LINKS TO SIDEBAR -->
+		
+		 <!--#include file="sidebar.html" --> 
+
+		</TD>
+
+		<TD id=main valign=top width=610>
+<!-- START OF CONTENT AREA -->
+
+<H1>Task Leaders: Bruce E. Dale</H1>
+
+<H2>Biosketch of Professor Bruce E. Dale</H2>
+
+<img src="../images/bruce_dale.jpg" HEIGHT=242 WIDTH=240 BORDER=1 ALT="Bruce Dale" ALIGN=RIGHT HSPACE=10 VSPACE=10>
+
+<P>Professor Dale received his bachelors degree (<I>summa cum laude</I>) in chemical engineering from the University of Arizona (Tucson) in 1976 and the masters degree from that same university in 1976. Dr. Dale then studied under Professor George T. Tsao at Purdue University, receiving his Ph.D. degree in 1979. Dr. Dale's first academic position was in the Department of Agricultural and Chemical Engineering at Colorado State University, where he rose to the rank of Professor in 1988. In that same year he joined Texas A&amp;M University where he became Professor of Chemical Engineering and Professor of Agricultural Engineering. Dr. Dale also directed two large interdisciplinary research centers at Texas A&amp;M: the Engineering Biosciences Research Center and the Food Protein Research and Development Center. In 1996 Dr. Dale became Professor and Chair of the Department of Chemical Engineering at Michigan State University, where he also holds an appointment in the Michigan Agricultural Experiment Station. He stepped down as Chair in 2001 to return to full time research and teaching. In 1996 he won the Charles D. Scott Award for contributions to the use of biotechnology to produce fuels, chemical and other industrial products from renewable plant resources. 
+</P>
+
+<P>Professor Dale's research and professional interests lie at the intersection of chemical engineering and the life sciences. Specifically, he is interested in the sustainable conversion of plant matter to industrial products - fuels, chemicals and materials - while still meeting human and animal needs for food and feed. He is now applying life cycle analysis to chart pathways toward more sustainable economic systems based on plant raw materials. At the request of the National Academy of Sciences, he led the production of a report entitled "Biobased Industrial Products: Research and Commercialization Priorities" which was released in March 2000. Dr. Dale has authored over 80 referred journal papers, is an active consultant to industry and holds eleven U. S. and foreign patents. For entertainment, he torments lawyers as an expert witness.
+</P>
+
+<!-- END OF CONTENT AREA -->
+
+<!-- START OF FOOTER -->
+
+
+<BR>
+
+
+
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+</body>
+</html>
